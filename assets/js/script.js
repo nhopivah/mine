@@ -1,6 +1,6 @@
 const categories = [
   { name: "RUMAH", file: "rumah.csv" },
-  { name: "FASHHION", file: "fashion.csv" },
+  { name: "FASHION", file: "fashion.csv" },
   // ... kategori lain jika ada
 ];
 
